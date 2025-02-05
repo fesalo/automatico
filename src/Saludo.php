@@ -8,7 +8,7 @@ class Saludo
     public function __construct()
     {
         $this->saludos = [
-            "es" => ["saludo" => "¡¡Hola Mundo!!", "codigo" => "ES"], // Español
+            "es" => ["saludo" => "¡Hola Mundo!", "codigo" => "ES"], // Español
             "zh" => ["saludo" => "你好，世界！", "codigo" => "CN"], // Chino
             "en" => ["saludo" => "Hello, World!", "codigo" => "US"], // Inglés
             "hi" => ["saludo" => "नमस्ते दनुनया!", "codigo" => "IN"], // Hindi
